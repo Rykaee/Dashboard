@@ -1,0 +1,14 @@
+D:\Koodijuttui\dashboard\dashboard\bin\Release\dashboard.exe.config
+D:\Koodijuttui\dashboard\dashboard\bin\Release\dashboard.exe.manifest
+D:\Koodijuttui\dashboard\dashboard\bin\Release\dashboard.application
+D:\Koodijuttui\dashboard\dashboard\bin\Release\dashboard.exe
+D:\Koodijuttui\dashboard\dashboard\bin\Release\dashboard.pdb
+D:\Koodijuttui\dashboard\dashboard\obj\Release\dashboard.csprojAssemblyReference.cache
+D:\Koodijuttui\dashboard\dashboard\obj\Release\dashboard.Form1.resources
+D:\Koodijuttui\dashboard\dashboard\obj\Release\dashboard.Properties.Resources.resources
+D:\Koodijuttui\dashboard\dashboard\obj\Release\dashboard.csproj.GenerateResource.cache
+D:\Koodijuttui\dashboard\dashboard\obj\Release\dashboard.csproj.CoreCompileInputs.cache
+D:\Koodijuttui\dashboard\dashboard\obj\Release\dashboard.exe.manifest
+D:\Koodijuttui\dashboard\dashboard\obj\Release\dashboard.application
+D:\Koodijuttui\dashboard\dashboard\obj\Release\dashboard.exe
+D:\Koodijuttui\dashboard\dashboard\obj\Release\dashboard.pdb
